@@ -1,0 +1,61 @@
+DataSet: iris
+Machine Learning Algorithm Chosen: knn
+Accuracy of Training (Scratch): 100.00%
+Accuracy of ScikitLearn Function: 100.00%
+Prediction Point: [6.1 2.8 4.7 1.2]
+Predicted Class (Scratch): 1
+Predicted Class (Scikit-Learn): 1
+Actual Class: 1
+
+DataSet: iris
+Machine Learning Algorithm Chosen: svm
+Accuracy of Training (Scratch): 30.00%
+Accuracy of ScikitLearn Function: 100.00%
+Prediction Point: [6.1 2.8 4.7 1.2]
+Predicted Class (Scratch): 1.0
+Predicted Class (Scikit-Learn): 1
+Actual Class: 1
+
+DataSet: banknote
+Machine Learning Algorithm Chosen: knn
+Accuracy of Training (Scratch): 100.00%
+Accuracy of ScikitLearn Function: 100.00%
+Prediction Point: [ 1.5691  6.3465 -0.1828 -2.4099]
+Predicted Class (Scratch): 0.0
+Predicted Class (Scikit-Learn): 0.0
+Actual Class: 0.0
+
+DataSet: banknote
+Machine Learning Algorithm Chosen: svm
+Accuracy of Training (Scratch): 45.82%
+Accuracy of ScikitLearn Function: 98.55%
+Prediction Point: [ 1.5691  6.3465 -0.1828 -2.4099]
+Predicted Class (Scratch): -1.0
+Predicted Class (Scikit-Learn): 0.0
+Actual Class: 0.0
+
+DataSet: breast_cancer
+Machine Learning Algorithm Chosen: knn
+Accuracy of Training (Scratch): 92.98%
+Accuracy of ScikitLearn Function: 92.98%
+Prediction Point: [1.247e+01 1.860e+01 8.109e+01 4.819e+02 9.965e-02 1.058e-01 8.005e-02
+ 3.821e-02 1.925e-01 6.373e-02 3.961e-01 1.044e+00 2.497e+00 3.029e+01
+ 6.953e-03 1.911e-02 2.701e-02 1.037e-02 1.782e-02 3.586e-03 1.497e+01
+ 2.464e+01 9.605e+01 6.779e+02 1.426e-01 2.378e-01 2.671e-01 1.015e-01
+ 3.014e-01 8.750e-02]
+Predicted Class (Scratch): 0
+Predicted Class (Scikit-Learn): 0
+Actual Class: 1
+
+DataSet: breast_cancer
+Machine Learning Algorithm Chosen: svm
+Accuracy of Training (Scratch): 47.37%
+Accuracy of ScikitLearn Function: 95.61%
+Prediction Point: [1.247e+01 1.860e+01 8.109e+01 4.819e+02 9.965e-02 1.058e-01 8.005e-02
+ 3.821e-02 1.925e-01 6.373e-02 3.961e-01 1.044e+00 2.497e+00 3.029e+01
+ 6.953e-03 1.911e-02 2.701e-02 1.037e-02 1.782e-02 3.586e-03 1.497e+01
+ 2.464e+01 9.605e+01 6.779e+02 1.426e-01 2.378e-01 2.671e-01 1.015e-01
+ 3.014e-01 8.750e-02]
+Predicted Class (Scratch): -1.0
+Predicted Class (Scikit-Learn): 1
+Actual Class: 1
