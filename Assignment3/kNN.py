@@ -1,3 +1,6 @@
+# Name: Rabib Husain
+# ID: 1002053770
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
